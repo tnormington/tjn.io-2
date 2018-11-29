@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="143px" height="83px" viewBox="0 0 143 83" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>arrow-right-yellow</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="assets" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="arrow-right-yellow" fill="#FFD524" fill-rule="nonzero">
+            <path d="M89,15 L105,31 L2,31 C0.862745098,30.9973638 0,31.8725835 0,33 L0,50 C0,50.8356766 0.862745098,51.7108963 2,52 L105,52 L89,68 C88.2875817,68.6318102 88.2875817,69.7987698 89,70 L101,82 C101.803922,83.2188049 102.954248,83.2188049 104,82 L142,43 C143.215686,42.0834798 143.215686,40.9165202 142,40 L104,1 C102.666667,-0.218804921 101.51634,-0.218804921 101,1 L89,13 C88.5751634,13.2012302 88.5751634,14.6599297 89,15 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>
