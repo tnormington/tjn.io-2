@@ -3,9 +3,12 @@ import Link from 'gatsby-link'
 
 import './topbarLink.sass'
 
-export default ({ to, children }) => {
-  const { pathname } = window.location
-  const active = pathname === to
+export default ({ to, children, window }) => {
+  let active = false
+  if (window) {
+    const { pathname } = window.location
+    active = pathname === to
+  }
   return (
     <Link to={to} className={`topbar-link ${active ? 'active' : ''}`}>
       {children}
